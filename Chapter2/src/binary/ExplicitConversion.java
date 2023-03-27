@@ -28,10 +28,7 @@ public class ExplicitConversion {
 		System.out.println(num1);
 		System.out.println(num2);
 		
-		
-		
-		
-		
+	 	
 	}
 
 }
