@@ -8,7 +8,7 @@ public class Student {
 	int grade;
 	String address;
 
-	public Student() {}  // 디폴트 생성자
+	public Student() {}  // 디폴트 생성자, 메소드
 	
 	public Student(int id, String name) {
 		studentID = id;
