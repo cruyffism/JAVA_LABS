@@ -4,7 +4,7 @@ public class SwitchCase {
 
 	public static void main(String[] args) {
        // swith-case문에서 같은 조건은 같이 써주면 된다.
-	   int month = 2;
+	   int month = 3;
        int day; 
 	
        switch (month) {

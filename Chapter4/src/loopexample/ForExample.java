@@ -16,6 +16,7 @@ public class ForExample {
 	System.out.println(sum);
 	System.out.println(num);
 	
+	
   }
 
 }

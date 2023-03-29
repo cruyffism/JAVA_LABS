@@ -10,11 +10,12 @@ public class BreakExample {
 	 int num = 1;
 	 
 	 while(true) {
-		  sum += num;
+		  sum += num; // sum = sum+ num 이랑 같은 의미 
 		  
 		  if(sum>100)
 			 break;
 		  num++;
+		 
 	 }
 	 
 	 System.out.println(sum);

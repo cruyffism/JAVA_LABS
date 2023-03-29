@@ -21,9 +21,9 @@ public class OperationEX3 {
 	int number1 = 20;	
 	int k = 4;	
 	boolean answer = ( ((number1 = number1 + 10) < 40) || ((k = k+2) > 10) );
-	System.out.println(answer);
-	System.out.println(number1);
-	System.out.println(k);
+	System.out.println(answer); 
+	System.out.println(number1); 
+	System.out.println(k); 
 	
 	}
 

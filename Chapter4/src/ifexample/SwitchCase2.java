@@ -5,7 +5,7 @@ public class SwitchCase2 {
 	public static void main(String[] args) {
 
 	//Switch-case문(if-else문 대신하여 사용 가능)		
-	int rank = 1;
+	int rank = 3;
 	char medalColor;
 	
 	switch(rank) {
@@ -17,7 +17,7 @@ public class SwitchCase2 {
 			     break;
 		 default: medalColor = 'A';			 
 	}
-	System.out.println(rank +"등 메달의 색깔은"+medalColor+"입니다.");	
+	System.out.println(rank +"등 메달의 색깔은 "+medalColor+"입니다.");	
 		
 	}
 
