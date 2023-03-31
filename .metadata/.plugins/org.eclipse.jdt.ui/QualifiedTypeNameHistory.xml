@@ -4,5 +4,9 @@
     <fullyQualifiedTypeName name="reference.Student"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="array.Book"/>
+    <fullyQualifiedTypeName name="inheritance.Customer"/>
+    <fullyQualifiedTypeName name="inheritance.VIPCustomer"/>
+    <fullyQualifiedTypeName name="inheritance.GoldCustomer"/>
+    <fullyQualifiedTypeName name="witharraylist.VIPCustomer"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
