@@ -1,5 +1,7 @@
 package hiding;
 
+import java.net.Socket;
+
 class BirthDay {
 
 	private int day;
@@ -42,9 +44,14 @@ public class BirthDayTest{
 	public static void main(String[] args) {
 		
 		BirthDay day = new BirthDay();
+		
 		day.setYear(2018);
 		day.setMonth(2);
 		day.setDay(30);
+		
+		System.out.println(day.getDay());
+		
+	
 		
 	}
 	

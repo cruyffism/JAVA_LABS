@@ -14,7 +14,7 @@ public class ArrayTest3 {
 	for(int i = 0; i<alphabets.length; i++, ch++) {
 	    System.out.println(alphabets[i]);	
 	}
-		
+		// 알페벳 길이(26)보다 작은 값 전부 출력! 
   }
 
 }

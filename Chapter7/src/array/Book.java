@@ -12,10 +12,10 @@ public class Book {
 	   this.bookName = bookName;
 	   this.author = author;	   
    }
-public String getBookName() {
+public String getBookName() { //get은 꺼내는 거라 리턴값이 필요 
 	return bookName;
 }
-public void setBookName(String bookName) {
+public void setBookName(String bookName) { 
 	this.bookName = bookName;
 }
 public String getAuthor() {

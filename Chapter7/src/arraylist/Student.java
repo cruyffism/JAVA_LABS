@@ -6,7 +6,7 @@ public class Student {
 
 	private int studentID;
 	private String studentName;
-	private ArrayList<Subject> subjectList;
+	private ArrayList<Subject> subjectList; // Subject 클래스가 list로 
 	
 	public Student(int studentID, String studentName) {
 		this.studentID = studentID;
@@ -18,11 +18,11 @@ public class Student {
 	
 	public void addSubject(String name, int score) {
 		
-		Subject subject = new Subject();
+		Subject subject = new Subject(); // 인스턴스 생성 
 		subject.setName(name);
 		subject.setScorePoint(score);
 		
-		subjectList.add(subject);
+		subjectList.add(subject);  // .add를 해줘야 리스트에 들어간다. 
 		
 	}
 	

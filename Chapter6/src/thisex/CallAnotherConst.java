@@ -28,7 +28,6 @@ public class CallAnotherConst {
        
 		Person p1 = new Person();
 		System.out.println(p1.name);
-		
 		System.out.println(p1.returnSelf());
 	}
 

@@ -12,11 +12,13 @@ public class TowDimensionArray {
 	
 	for (int i = 0; i < arr.length; i++) {
 		for(int j = 0; j< arr[i].length; j++) {
-			System.out.println(arr[i][j]); // 0,0 ~ 0,2
+			System.out.println(arr[i][j]); 
 		}
 	}
-	  // schar[][] alphabets = new char[13][2];
-	 
+	  /* i = 0, j = 0 1 2  >> arr[0][0], arr[0][1], arr[0][2] 
+         i = 1, j = 0 1 2  >> arr[1][0], arr[1][1], arr[1][2]
+	  ÃÑ 6¹ø for¹®ÀÌ µ·´Ù
+	  */
   }
 
 }

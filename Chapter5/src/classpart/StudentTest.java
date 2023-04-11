@@ -19,6 +19,7 @@ public class StudentTest {
 	 	
 	 	// 주소값 출력 32비트짜리 어드레스?, 참조값이라고 부른다.
 	 	System.out.println(studentLee);
+	 	System.out.println(studentLee);
 	 	System.out.println(studentKim);
 	}
 }

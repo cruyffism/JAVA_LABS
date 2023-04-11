@@ -13,8 +13,15 @@ public class ArrayTest2 {
 		for(int i = 0; i<num.length; i++) {
 			total += num[i];
 			
-		}
-		
+		} 
+	 /* total += num[i];
+		total = total +  num[0];
+		0 = 0+ 10
+		10 = 10 +20
+		30 = 30 + 30
+		60 = 60+ 0
+		60 = 60 + 0
+     */          
 		System.out.println(total);
 	}
 
